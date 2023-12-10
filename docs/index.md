@@ -1,1 +1,5 @@
-# hello world
+---
+layout: home 
+---
+
+Welcome to my new blog!
