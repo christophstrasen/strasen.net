@@ -1,0 +1,9 @@
+# Site settings
+title: Christoph's homepage
+author: 
+  name: Christoph Strasen
+  email: christoph+homepage@domain.com
+description: "Mostly tech and business stuff"
+
+# Build settings
+remote_theme: jekyll/minima
