@@ -5,7 +5,7 @@ tags: business task-management management productivity multi-part series
 categories: projects
 ---
 
-I recently started a new a job as executive in medium-sized company. Though not my first rodeo, it is here where I finally achieved inbox zero for the first time, and, fingers crossed, may also sustain it.
+I recently started a new a job as executive in medium-sized B2B FinTech company. Though not my first rodeo, it is here where I finally achieved inbox zero for the first time, and, fingers crossed, may also sustain it.
 
 Now I see the upcoming holiday slowdown could provide an opportunity to upgrade a quite related frenemy of mine: task management.
 
