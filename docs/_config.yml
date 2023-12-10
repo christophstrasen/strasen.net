@@ -7,3 +7,4 @@ description: "Mostly tech and business stuff"
 
 # Build settings
 remote_theme: jekyll/minima
+future: true
