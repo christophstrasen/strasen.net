@@ -76,7 +76,7 @@ Omiting the "Won't have" of MoSCoW in the goals, instead I find it useful to foc
 
 ## Hard constraints
 
-* Cannot "just" migrate a whole organisation
+* Cannot and should not "just" migrate a whole organisation to a single platform
 * Cannot enforce complicated policies for (most) task origins
   * possible though: "allways tag a person"
 
@@ -92,7 +92,7 @@ I will probably let these thoughts simmer for a little bit, while I explore the 
 
 I have the 🌠 wishful thinking that a low-code solution may be found. One that meets a good chunk of my design parameters while unifying towards **[fibery.io](fibery.io)**. 
 
-I cannot avoid to point out my opinion that **If an organisation is already using fibery for everything™, this whole post would be likely irrelevant to them**. However, as migration is far-off in a scenario like mine, I must identify the baby steps first.
+I cannot avoid to point out my opinion that **If an organisation is already using fibery for everything™, this whole post would be likely irrelevant to them**. However, as even partial migration seems a far-off scenario, I must identify the baby steps first.
 
 # AI disclaimer
 
