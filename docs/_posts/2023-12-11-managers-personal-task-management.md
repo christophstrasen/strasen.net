@@ -26,7 +26,7 @@ However, as with any good design process, we begin with describing and maybe eve
 * Task origin: **GSuite** comments (via assign to)
 * Task origin: **Confluence** (via tagging)
 * Task origin: **Jira**
-* Task origin: **[fibery.io](fibery.io)** (love it, but its new and rare)
+* Task origin: **[fibery.io](https://fibery.io)** (love it, but its new and rare)
 * Task origin: **slack** reminders
 * Task origin: beeing mentioned in an **email** (🤦 lord give me strength)
 
@@ -56,7 +56,7 @@ And here the 🍹 juicy wishlist starts, prioritising according to the [MoSCoW m
 * 🔺 Represent hierarchy & dependencies in a good UI
 * 🤝👀 Share a read-only single source of truth view with others
 * 🤝💬 Load and display more meta-data like further comments from the origin
-* ✨ Inspire collaborators to also adopt a structured and consolidated view for the tasks they interact with, maybe even via **[fibery.io](fibery.io)**
+* ✨ Inspire collaborators to also adopt a structured and consolidated view for the tasks they interact with, maybe even via **[fibery.io](https://fibery.io)**
 * ✅ pass compliance smell tests
 
 ## Could have
@@ -90,7 +90,7 @@ Omiting the "Won't have" of MoSCoW in the goals, instead I find it useful to foc
 
 I will probably let these thoughts simmer for a little bit, while I explore the listed origin's possibilities and limitations in terms of interconnectivity.
 
-I have the 🌠 wishful thinking that a low-code solution may be found. One that meets a good chunk of my design parameters while unifying towards **[fibery.io](fibery.io)**. 
+I have the 🌠 wishful thinking that a low-code solution may be found. One that meets a good chunk of my design parameters while unifying towards **[fibery.io](https://fibery.io)**. 
 
 I cannot avoid to point out my opinion that **If an organisation is already using fibery for everything™, this whole post would be likely irrelevant to them**. However, as even partial migration seems a far-off scenario, I must identify the baby steps first.
 
