@@ -54,6 +54,7 @@ And here the 🍹 juicy wishlist starts, prioritising according to the [MoSCoW m
 
 * 📝 **Unified single source of truth** with limited write support for the task owner (e.g. set to done)
 * 🔺 Represent hierarchy & dependencies in a good UI
+* 🔺 Hierarchy can be established indipendent of task origin i.e. creating task "trees" across multiple origins
 * 🤝👀 Share a read-only single source of truth view with others
 * 🤝💬 Load and display more meta-data like further comments from the origin
 * ✨ Inspire collaborators to also adopt a structured and consolidated view for the tasks they interact with, maybe even via **[fibery.io](https://fibery.io)**
